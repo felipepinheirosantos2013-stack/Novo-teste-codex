@@ -1,0 +1,10 @@
+{
+  "name": "igreja-irlanda-batista",
+  "version": "1.0.0",
+  "description": "Landing page for Igreja Irlanda Batista.",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
